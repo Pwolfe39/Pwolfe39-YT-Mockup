@@ -1,0 +1,463 @@
+
+body {
+    background-color: #F1F1F1;
+    padding: 0;
+    margin: 0;
+   
+}
+    
+.header {
+    height: 50px;
+    background-color: #ffffff;
+    border-bottom: solid 1px #d3d1d1;
+    margin: auto;
+    
+}   
+
+.dropdownPos {
+    float: left;
+    margin-left: 25px;
+    margin-top: 10px;
+
+} 
+
+.youtubeImg {
+    float: left;
+    padding-top: 8px;
+}
+
+.yicon {
+    padding-left: 10px
+}
+
+.searchbar {
+    float: left;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+.searchAtt {
+    width: 635px;
+    height: 25px;
+    padding-left: 5px;
+    color: #B5COD2;
+    border: solid 1px #B5COD2;
+    
+}
+
+.usericon {
+    width: 27px;
+    height: 27px;
+    float: right;
+    margin-right: 46px;
+    margin-top: 11px;
+}
+
+.belliconPos {
+    float: right;
+    margin-right: 12px;
+    margin-top: 14px;
+}
+
+.clear {
+    clear: left;
+    clear: right;
+}
+
+.uploadiconPos {
+    float: left;
+    margin-left: 879px;
+    margin-top: 12px;
+}
+
+.divMenu {
+    width: 230px;
+    height: 900px;
+    background-color: #FFFFFF;
+    float: left;
+    margin-left: -140px;
+    border-right: solid 1px  #dddbdb;
+    
+}
+
+.imgposition {
+    float: left;
+    margin-left: 27px;
+}
+
+.imgposition2 {
+    float: left;
+    margin-top: 27px;
+    margin-left: -20px;
+}
+
+.imgposition3 {
+    float: left;
+    margin-top: 55px;
+    margin-left: -20px;
+}
+
+.imgposition4 {
+    float: left;
+    margin-top: 85px;
+    margin-left: -23px;
+}
+
+.imgposition5 {
+    float: left;
+    margin-top: 110px;
+    margin-left: -26px;
+}
+
+.masterimg {
+    margin-top: 20px;
+    font-size: 
+}
+/*text position(tp)*/
+.tpmaster {
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+   
+}
+
+.textposition {
+    float: left;
+    margin-top: 5px;
+    margin-left: 8px;
+    font-size: 12px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.textposition2 {
+    float: left;
+    margin-top: 32px;
+    margin-left: -34px;
+}
+
+.textposition3 {
+    float: left;
+    margin-top: 60px;
+    margin-left: -45px;
+}
+
+.textposition4 {
+    float: left;
+    margin-top: 90px;
+    margin-left: -45px;
+}
+
+.textposition5 {
+    float: left;
+    margin-top: 115px;
+    margin-left: -95px;
+} 
+
+.borderatt {
+    float: left;
+    width: 180px;
+    border-bottom: solid 1px #dddbdb;
+    padding-left: 10px;
+    padding-right: 0px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.bestof {
+    float: left;
+    margin-left: 27px;
+    font-size: 10px;
+    font-weight: bold;
+    color: red;
+}
+
+.tpmaster2 {
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+} 
+
+.textposition6 {
+    float: left;
+    margin-left: -65px;
+    margin-top: 37px;
+}
+
+.textposition7{
+    float: left;
+    margin-left: -65px;
+    margin-top: 67px;
+}
+
+.textposition8 {
+    float: left;
+    margin-left: -65px;
+    margin-top: 95px;
+}
+
+.textposition9 {
+    float: left;
+    margin-left: -65px;
+    margin-top: 127px;
+}
+
+.textposition10 {
+    float: left;
+    margin-left: -65px;
+    margin-top: 158px;
+}
+
+.textposition11 {
+    float: left;
+    margin-left: -65px;
+    margin-top: 186px;
+}
+
+.textposition12 {
+    float: left;
+    margin-left: -65px;
+    margin-top: 218px;
+}
+
+.textposition13 {
+    float: left;
+    margin-left: -65px;
+    margin-top: 247px;
+}
+
+.textposition14 {
+    float: left;
+    margin-left: -65px;
+    margin-top: 277px;
+}
+/*****************************/
+.textposition15 {
+    float: left;
+    margin-left: 10px;
+    margin-top: 17px;
+
+}
+
+
+/*****************************/
+
+.imgposition6 {
+    float: left;
+    margin-top: 28px;
+    margin-left: -99px;
+}
+
+.imgposition7 {
+    float: left;
+    margin-top: 60px;
+    margin-left: -98px;
+}
+
+.imgposition8 {
+    float: left;
+    margin-top: 90px;
+    margin-left: -99px;
+}
+
+.imgposition9 {
+    float: left;
+    margin-top: 120px;
+    margin-left: -99px;
+}
+
+.imgposition10 {
+    float: left;
+    margin-top: 150px;
+    margin-left: -99px;
+}
+
+.imgposition11 {
+    float: left;
+    margin-top: 180px;
+    margin-left: -100px;
+}
+
+.imgposition12 {
+    float: left;
+    margin-top: 210px;
+    margin-left: -99px;
+}
+
+.imgposition13 {
+    float: left;
+    margin-top: 210px;
+    margin-left: -99px;
+    
+}
+
+.imgposition13 {
+    float: left;
+    margin-top: 240px;
+    margin-left: -100px; 
+}
+
+.imgposition14 {
+    float: left;
+    margin-top: 270px;
+    margin-left: -99px; 
+}
+
+.imgposition15 {
+    float: left;
+    margin-top: 13px;
+    margin-left: 26px;
+}
+
+.signin {
+    float: left;
+    margin-top: 15px;
+    text-indent: 15px;
+}
+
+.signinp {
+   margin-left: 15px;
+   font-size: 13px;
+   font-family: sans-serif;
+}
+
+.signinbutton {
+    float: left;
+    border-radius: 4px;
+    background-color: #126DB3;
+    color: white;
+    font-size: 11px;
+    padding: 6px 10px;
+    margin-left: 20px;
+    border: none;
+}
+
+.header2 {
+    height: 40px;
+    width: 1670px;
+    background-color: #FFFFFF;
+    margin-left: 230px;
+    margin-top: -22px;
+    border-left: solid 1px #dddbdb; 
+    border-bottom: solid 1px #dddbdb;
+    font-family: sans-serif;
+    
+}
+
+.header2pos {
+    margin-left: 775px;
+    padding-top: 12px;
+    
+}
+
+.header2pos2 {
+    margin-left: 840px;
+    margin-top: -37px;
+    color:  #9f9d9d;
+}
+
+
+/*********************************************************************************/
+
+
+
+
+/*******Center page scroll********/
+/*replace the color with gray once it's done to see it works.*/
+.scrollcenter {
+    width: 1670px;
+    height: 800px;
+    background-color: #F1F1F1;
+    margin-left: 230px;
+   
+} 
+
+/*Controlling div for the video divs*/
+.videodivs {
+    height: 1400px;
+    width: 1250px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+   
+    margin-top: 10px;
+   
+}
+
+/*****************************************************************************************/
+/*format for the video div attributes*/
+.videodivsAtt {
+    float-left: 0px;
+    width: 193px;
+    height: 110px;
+    margin-top: 45px;
+    margin-left: 15px;
+   
+}
+
+/*Controls the attributes for the video's text content*/
+.videopmaster {
+    margin-left: 20px;
+    text-decoration: none; 
+    color: #126DB3;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+/*Controls the attributes for the video's lower text content*/
+.videopmasterlower {
+    margin-left: 20px;
+}
+/*Controls the attributes for the entire video's text content*/
+.vpmlower {
+    margin-left: -5px;
+   
+}
+/* Vpmside controls the 6 video div's*/
+.vpmside {
+    margin-left: 205px;
+    margin-top: -195px;
+}
+.vpmside2 {
+    margin-left: 410px;
+    margin-top: -195px;
+}
+
+.vpmside3 {
+    margin-left: 615px;
+    margin-top: -195px;
+}
+
+.vpmside4 {
+    margin-left: 820px;
+    margin-top: -195px;
+}
+
+.vpmside5 {
+    margin-left: 1025px;
+    margin-top: -195px;
+}
+
+/*controls the heading (p) tag for the first set of videos*/
+.scrollpara {
+    float: left;
+    margin-top: -515px;
+    margin-left: 225px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/*Controls the lower gray video's text content*/
+.lowerscrollheading {
+    float: left;
+    font-size: 11px;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: -335px
+}
+/*Controls the color of the lower text content*/
+.lshatt {
+    color: gray;
+}
+
