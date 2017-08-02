@@ -5,7 +5,7 @@ body {
     margin: 0;
    
 }
-    
+/*Controls the header div's*/  
 .header {
     height: 50px;
     background-color: #ffffff;
@@ -59,11 +59,10 @@ body {
     margin-top: 14px;
 }
 
-.clear {
-    clear: left;
-    clear: right;
-}
 
+
+
+/*Controls the first set of categorial listings on the left*/
 .uploadiconPos {
     float: left;
     margin-left: 879px;
@@ -164,6 +163,9 @@ body {
     margin-left: 20px;
 }
 
+
+
+/*Controls the second section of categorial lists on the left*/
 .bestof {
     float: left;
     margin-left: 27px;
@@ -231,7 +233,7 @@ body {
     margin-left: -65px;
     margin-top: 277px;
 }
-/*****************************/
+
 .textposition15 {
     float: left;
     margin-left: 10px;
@@ -240,7 +242,7 @@ body {
 }
 
 
-/*****************************/
+
 
 .imgposition6 {
     float: left;
@@ -303,12 +305,18 @@ body {
     margin-left: -99px; 
 }
 
+
+
+
+/*Controls the Browse channels div*/
 .imgposition15 {
     float: left;
     margin-top: 13px;
     margin-left: 26px;
 }
 
+
+/*Controls the sign in divs*/
 .signin {
     float: left;
     margin-top: 15px;
@@ -332,6 +340,9 @@ body {
     border: none;
 }
 
+
+
+/*Controls the div below the header(Home, trending)*/
 .header2 {
     height: 40px;
     width: 1670px;
@@ -357,13 +368,13 @@ body {
 }
 
 
-/*********************************************************************************/
 
 
 
 
-/*******Center page scroll********/
-/*replace the color with gray once it's done to see it works.*/
+
+
+/*Controls the center div that contains all the video div's*/
 .scrollcenter {
     width: 1670px;
     height: 800px;
@@ -383,7 +394,7 @@ body {
    
 }
 
-/*****************************************************************************************/
+
 /*format for the video div attributes*/
 .videodivsAtt {
     float-left: 0px;
@@ -460,4 +471,170 @@ body {
 .lshatt {
     color: gray;
 }
+
+
+
+
+
+
+
+/*Second list of CSS for second row of videos*/
+
+/*Controls the attributes for the video's text content*/
+.videopmaster {
+    margin-left: 20px;
+    text-decoration: none; 
+    color: #126DB3;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+/*Controls the attributes for the video's lower text content*/
+.videopmasterlower {
+    margin-left: 20px;
+}
+/*Controls the attributes for the entire video's text content*/
+.vpmlower {
+    margin-left: -5px;
+   
+}
+/* Vpmside controls the 6 video div's*/
+.vpmside {
+    margin-left: 205px;
+    margin-top: -195px;
+}
+.vpmside2 {
+    margin-left: 410px;
+    margin-top: -195px;
+}
+
+.vpmside3 {
+    margin-left: 615px;
+    margin-top: -195px;
+}
+
+.vpmside4 {
+    margin-left: 820px;
+    margin-top: -195px;
+}
+
+.vpmside5 {
+    margin-left: 1025px;
+    margin-top: -195px;
+}
+
+/*controls the heading (p) tag for the first set of videos*/
+.scrollpara {
+    float: left;
+    margin-top: -515px;
+    margin-left: 225px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/*Controls the lower gray video's text content*/
+.lowerscrollheading2 {
+    float: left;
+    font-size: 11px;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: -140px
+}
+/*Controls the color of the lower text content*/
+.lshatt2 {
+    color: gray;
+}
+
+
+
+
+
+
+
+/*Third list of CSS for third row of videos */
+/*Controls the attributes for the video's text content*/
+.videopmaster {
+    margin-left: 20px;
+    text-decoration: none; 
+    color: #126DB3;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+/*Controls the attributes for the video's lower text content*/
+/*third row shifts the content so videopmasterlower is adjusted*/
+.videopmasterlower2 {
+    margin-left: -125px;
+}
+/*Controls the attributes for the entire video's text content*/
+.vpmlower {
+    margin-left: -5px;
+   
+}
+/* Vpmside controls the 6 video div's*/
+.vpmside {
+    margin-left: 205px;
+    margin-top: -195px;
+}
+.vpmside2 {
+    margin-left: 410px;
+    margin-top: -195px;
+}
+
+.vpmside3 {
+    margin-left: 615px;
+    margin-top: -195px;
+}
+
+.vpmside4 {
+    margin-left: 820px;
+    margin-top: -195px;
+}
+
+.vpmside5 {
+    margin-left: 1025px;
+    margin-top: -195px;
+}
+
+/*controls the heading (p) tag for the first set of videos*/
+.scrollpara {
+    float: left;
+    margin-top: -515px;
+    margin-left: 225px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/*Controls the lower gray video's text content*/
+.lowerscrollheading3 {
+    float: left;
+    font-size: 11px;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+/*Controls the color of the lower text content*/
+.lshatt3 {
+    color: gray;
+}
+
+
+.videopmaster2Adj {
+    margin-left: -112px;
+}
+
+.videopmaster3Adj {
+    margin-left: -120px;
+}
+
+
+.clear {
+    clear: right;
+}
+
+
 
